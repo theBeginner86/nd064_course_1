@@ -1,0 +1,39 @@
+{{2021-07-03 16:21:13,843}}, {{ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)}} endpoint reached successfully.
+{{2021-07-03 16:21:13,844}}, {{ * Restarting with stat}} endpoint reached successfully.
+{{2021-07-03 16:21:13,958}}, {{ * Debugger is active!}} endpoint reached successfully.
+{{2021-07-03 16:21:13,968}}, {{ * Debugger PIN: 103-718-243}} endpoint reached successfully.
+{{2021-07-03 16:21:25,004}}, {{127.0.0.1 - - [03/Jul/2021 16:21:25] "GET / HTTP/1.1" 200 -}} endpoint reached successfully.
+{{2021-07-03 16:22:22,153}}, {{/metrics}} endpoint reached successfully.
+{{2021-07-03 16:22:22,154}}, {{127.0.0.1 - - [03/Jul/2021 16:22:22] "GET /metrics HTTP/1.1" 200 -}} endpoint reached successfully.
+{{2021-07-03 16:22:59,864}}, {{/status}} endpoint reached successfully.
+{{2021-07-03 16:22:59,865}}, {{127.0.0.1 - - [03/Jul/2021 16:22:59] "GET /status HTTP/1.1" 200 -}} endpoint reached successfully.
+{{2021-07-03 16:25:06,575}}, {{/metrics}} endpoint reached successfully.
+{{2021-07-03 16:25:06,576}}, {{127.0.0.1 - - [03/Jul/2021 16:25:06] "GET /metrics HTTP/1.1" 200 -}} endpoint reached successfully.
+{{2021-07-03 16:26:57,147}}, {{ * Detected change in '/Users/pranavsingh/Documents/OS/External/Courses/nd064_course_1/exercises/python-helloworld/app.py', reloading}} endpoint reached successfully.
+{{2021-07-03 16:26:57,167}}, {{ * Restarting with stat}} endpoint reached successfully.
+{{2021-07-03 16:27:30,906}}, {{ * Restarting with stat}} endpoint reached successfully.
+{{2021-07-03 16:27:31,066}}, {{WARNING}},{{ * Debugger is active!}} endpoint reached successfully.
+{{2021-07-03 16:27:31,069}}, {{INFO}},{{ * Debugger PIN: 103-718-243}} endpoint reached successfully.
+{{2021-07-03 16:27:31,079}}, {{INFO}},{{/metrics}} endpoint reached successfully.
+{{2021-07-03 16:27:31,079}}, {{INFO}},{{127.0.0.1 - - [03/Jul/2021 16:27:31] "GET /metrics HTTP/1.1" 200 -}} endpoint reached successfully.
+{{2021-07-03 16:27:57,475}}, {{INFO}},{{ * Detected change in '/Users/pranavsingh/Documents/OS/External/Courses/nd064_course_1/exercises/python-helloworld/app.py', reloading}} endpoint reached successfully.
+{{2021-07-03 16:27:57,492}}, {{ * Restarting with stat}} endpoint reached successfully.
+{{2021-07-03 16:27:57,643}}, {{WARNING}}, {{ * Debugger is active!}} endpoint reached successfully.
+{{2021-07-03 16:27:57,646}}, {{INFO}}, {{ * Debugger PIN: 103-718-243}} endpoint reached successfully.
+{{2021-07-03 16:27:57,653}}, {{INFO}}, {{/metrics}} endpoint reached successfully.
+{{2021-07-03 16:27:57,653}}, {{INFO}}, {{127.0.0.1 - - [03/Jul/2021 16:27:57] "GET /metrics HTTP/1.1" 200 -}} endpoint reached successfully.
+{{2021-07-03 16:40:01,657}}, {{INFO}}, {{ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)}} endpoint reached successfully.
+{{2021-07-03 16:40:18,583}}, {{INFO}}, {{/metrics}} endpoint reached successfully.
+{{2021-07-03 16:40:18,589}}, {{INFO}}, {{127.0.0.1 - - [03/Jul/2021 16:40:18] "GET /metrics HTTP/1.1" 200 -}} endpoint reached successfully.
+{{2021-07-03 16:42:44,165}}, {{INFO}}, {{ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)}} endpoint reached successfully.
+{{2021-07-03 16:42:44,166}}, {{INFO}}, {{ * Restarting with stat}} endpoint reached successfully.
+{{2021-07-03 16:42:44,284}}, {{WARNING}}, {{ * Debugger is active!}} endpoint reached successfully.
+{{2021-07-03 16:42:44,287}}, {{INFO}}, {{ * Debugger PIN: 103-718-243}} endpoint reached successfully.
+{{2021-07-03 16:42:50,140}}, {{INFO}}, {{/metrics}} endpoint reached successfully.
+{{2021-07-03 16:42:50,141}}, {{INFO}}, {{127.0.0.1 - - [03/Jul/2021 16:42:50] "GET /metrics HTTP/1.1" 200 -}} endpoint reached successfully.
+{{2021-07-03 16:47:41,720}}, {{INFO}}, {{ * Detected change in '/Users/pranavsingh/Documents/OS/External/Courses/nd064_course_1/exercises/python-helloworld/app.py', reloading}} endpoint reached successfully.
+{{2021-07-03 16:47:41,742}}, {{INFO}}, {{ * Restarting with stat}} endpoint reached successfully.
+{{2021-07-03 16:47:41,904}}, {{WARNING}}, {{ * Debugger is active!}} endpoint reached successfully.
+{{2021-07-03 16:47:41,910}}, {{INFO}}, {{ * Debugger PIN: 103-718-243}} endpoint reached successfully.
+{{2021-07-03 16:47:44,213}}, {{INFO}}, {{/}} endpoint reached successfully.
+{{2021-07-03 16:47:44,214}}, {{INFO}}, {{127.0.0.1 - - [03/Jul/2021 16:47:44] "GET / HTTP/1.1" 200 -}} endpoint reached successfully.
